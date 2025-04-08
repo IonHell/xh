@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+}
+
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
